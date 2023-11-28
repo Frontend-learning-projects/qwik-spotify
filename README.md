@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Qwik Spotify
 
 This repository contains code of a learning project called: "Qwik Spotify".
